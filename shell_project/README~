@@ -1,9 +1,9 @@
 
 Files:
 
-tsh.c		# The shell program that I have writen
 Makefile	# Compiles your shell program and runs the tests
 README		# This file
+tsh.c		# The shell program that I have writen
 tshref		# The reference shell binary.
 
 # The remaining files are used to test your shell
